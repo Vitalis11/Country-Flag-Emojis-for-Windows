@@ -1,8 +1,4 @@
-# [NOT WORKING ANYMORE!!] Country Flag Emojis for Windows
-
-IMPORTANT: The September 2023 update for Windows 10 & 11 seems to have broken the font, making all emojis invisible. To revert to the original Windows emojis, just restore the seguiemj.ttf file (by dragging it to the Windows fonts folder or double-clicking it and pressing "Install") and restart your PC.
-
-Original description:
+# Country Flag Emojis for Windows
 
 Get country flags like 🇺🇸 🇬🇧 🇪🇸 🇲🇽 🇵🇹 🇧🇷 🇫🇷 🇩🇪 🇯🇵 🇨🇳 🇰🇷 🇮🇳 to display properly on windows instead of just seeing placeholders like `US`, `GB`, `ES`!
 
@@ -11,6 +7,8 @@ Installing it overwrites the Windows Emoji font and replaces it with Google's Em
 (Make a copy of the original Windows emoji font [`C:\Windows\Fonts\seguiemj.ttf`](C:\Windows\Fonts\seguiemj.ttf), so you can always revert.)
 
 Restart your computer to make the new font appear everywhere!
+
+NOTE: The September 2023 update for Windows 10 & 11 may have broken the font for some, making all emojis invisible. However, as of April 2025 at least several users have confirmed it does work. To revert to the original Windows emojis, just restore the seguiemj.ttf file (by dragging it to the Windows fonts folder or double-clicking it and pressing "Install") and restart your PC.
 
 ## Detailed Instructions
 
